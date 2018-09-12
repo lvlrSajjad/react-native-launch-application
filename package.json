@@ -1,0 +1,37 @@
+
+
+{
+  "name": "sajjad-launch-application",
+  "_npmUser": {
+    "name": "lvlrsajjad",
+    "email": "lvlr.xaus@gmail.com"
+  },
+  "version": "1.0.0",
+  "description": "launch react native application background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "sajjad-launch-application",
+    "react-native-launch-application",
+    "react-native-launch-application-background"
+  ],
+  "author": {
+    "name": "Sajjad Asadi",
+    "email": "lvlr.xaus@gmail.com"
+  },
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "lvlrsajjad",
+      "email": "lvlr.xaus@gmail.com"
+    }
+  ],
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
+  }
+}
