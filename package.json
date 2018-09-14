@@ -6,7 +6,7 @@
     "name": "lvlrsajjad",
     "email": "lvlr.xaus@gmail.com"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "launch react native application background",
   "main": "index.js",
   "scripts": {
