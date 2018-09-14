@@ -1,15 +1,15 @@
 
-# react-native-launch-application [![npm version](https://img.shields.io/npm/v/sajjad-launch-application.svg)](https://www.npmjs.com/package/sajjad-launch-application)
+# react-native-launch-application [![npm version](https://img.shields.io/npm/v/react-native-launch-application.svg)](https://www.npmjs.com/package/react-native-launch-application)
 
 this is a react-native library for launching the application when the application is closed . 
 usually we can use this in headless js . (like fcm background messaging and etc)
 ## Getting started
 
-`$ npm install sajjad-launch-application --save`
+`$ npm install react-native-launch-application --save`
 
 ### Mostly automatic installation
 
-`$ react-native link sajjad-launch-application`
+`$ react-native link react-native-launch-application`
 
 ### Manual installation
 
@@ -25,12 +25,12 @@ Not Available
   - Add `new SajjadLaunchApplicationPackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
-  	include ':sajjad-launch-application'
-  	project(':sajjad-launch-application').projectDir = new File(rootProject.projectDir, 	'../node_modules/sajjad-launch-application/android')
+  	include ':react-native-launch-application'
+  	project(':react-native-launch-application').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-launch-application/android')
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      compile project(':sajjad-launch-application')
+      compile project(':react-native-launch-application')
   	```
 
 
@@ -39,7 +39,7 @@ Not Available
 You can use this library in headless js for example launching the application when a notification received even if your app swiped out . even if your screen locked.
 
 ```javascript
-import SajjadLaunchApplication from 'sajjad-launch-application';
+import SajjadLaunchApplication from 'react-native-launch-application';
 import type {RemoteMessage} from 'react-native-firebase';
 
 

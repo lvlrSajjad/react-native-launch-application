@@ -1,7 +1,7 @@
 
 
 {
-  "name": "sajjad-launch-application",
+  "name": "react-native-launch-application",
   "_npmUser": {
     "name": "lvlrsajjad",
     "email": "lvlr.xaus@gmail.com"
@@ -18,6 +18,8 @@
     "react-native-launch-application",
     "react-native-launch-application-background"
   ],
+    "homepage": "https://github.com/lvlrSajjad/react-native-launch-application",
+
   "author": {
     "name": "Sajjad Asadi",
     "email": "lvlr.xaus@gmail.com"
