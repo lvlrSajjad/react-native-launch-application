@@ -1,5 +1,3 @@
-[![https://nodei.co/npm/sajjad-launch-application.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/sajjad-launch-application.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sajjad-launch-application)
-
 
 # sajjad-launch-application [![npm version](https://img.shields.io/npm/v/sajjad-launch-application.svg)](https://www.npmjs.com/package/sajjad-launch-application)
 
