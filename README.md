@@ -1,8 +1,8 @@
 [![https://nodei.co/npm/sajjad-launch-application.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/sajjad-launch-application.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sajjad-launch-application)
 
-[![npm version](https://img.shields.io/npm/v/sajjad-launch-application.svg)](https://www.npmjs.com/package/sajjad-launch-application)
 
-# sajjad-launch-application
+# sajjad-launch-application [![npm version](https://img.shields.io/npm/v/sajjad-launch-application.svg)](https://www.npmjs.com/package/sajjad-launch-application)
+
 this is a react-native library for launching the application when the application is closed . 
 usually we can use this in headless js . (like fcm background messaging and etc)
 ## Getting started
